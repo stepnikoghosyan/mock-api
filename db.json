@@ -2,11 +2,15 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Stepan Stepanyan"
+      "login": "stepan",
+      "fullName": "Stepan Stepanyan",
+      "password": "stepan"
     },
     {
       "id": 2,
-      "fullName": "Hopar Hoparyan"
+      "login": "hopar",
+      "fullName": "Hopar Hoparyan",
+      "password": "hopar"
     }
   ]
 }
